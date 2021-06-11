@@ -1,0 +1,139 @@
+body {
+  font-size: 15px;
+  font-family: 'Spartan', sans-serif;
+}
+
+h1 {
+  color: hsl(300, 43%, 22%);
+}
+
+h6 {
+  color: hsl(303, 10%, 53%);
+}
+
+img {
+  border-radius: 50%;
+  height: 35px;
+  width: 35px;
+  padding-right: 10px;
+}
+
+td {
+  font-size: 8px;
+  color: white;
+  line-height: 1.5;
+}
+
+
+p{
+  color:hsl(300, 43%, 22%);
+    font-size: 10px;
+      padding: 0 40px;
+}
+
+.leftbox {
+  display: block;
+  position: absolute;
+  left: 150px;
+  top: 40px;
+  width: 30%;
+  font-weight: 400;
+}
+
+.rightbox1 {
+  display: inline;
+  position: absolute;
+  left: 550px;
+  top: 70px;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 8px;
+}
+
+.rightbox2 {
+  display: inline;
+  position: absolute;
+  left: 580px;
+  top: 120px;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 8px;
+}
+
+.rightbox3 {
+  display: inline;
+  position: absolute;
+  left: 610px;
+  top: 160px;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 8px;
+}
+
+.firstbox {
+  background-color: hsl(300, 43%, 22%);
+  display: block;
+  position: absolute;
+  top: 270px;
+  left: 150px;
+  height: 130px;
+  width: 22%;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.secondbox {
+  background-color: hsl(300, 43%, 22%);
+  display: block;
+  position: absolute;
+  top: 280px;
+  left: 425px;
+  height: 130px;
+  width: 22%;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.thirdbox {
+  background-color: hsl(300, 43%, 22%);
+  display: block;
+  position: absolute;
+  top: 290px;
+  left: 700px;
+  height: 130px;
+  width: 22%;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.lastbox {
+  display: block;
+  position: absolute;
+  top: 470px;
+  left: 450px;
+  font-size: 9px;
+}
+
+.first{
+  color:hsl(300, 43%, 22%);
+  padding: 0 0 0 30px;
+}
+
+.second{
+  color:hsl(300, 43%, 22%);
+  padding: 0 0 0 30px;
+}
+
+.third{
+  color:hsl(300, 43%, 22%);
+  padding: 0 0 0 30px;
+}
+
+.forth{
+  color: hsl(333, 80%, 67%);
+}
+
+.fifth{
+  color: hsl(333, 80%, 67%);
+}
+
+.sixth{
+  color: hsl(333, 80%, 67%);
+}
